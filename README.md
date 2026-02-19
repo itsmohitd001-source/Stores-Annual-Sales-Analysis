@@ -20,22 +20,11 @@ Annual Sales data analysis of a store
 
 >> Tools & Techniques Used
 
--Microsoft Excel
+-Microsoft Excel, Pivot Tables, Pivot Charts, Data Cleaning & Preprocessing, Slicers for Interactivity, Basic Data Modelling
 
--Pivot Tables
-
--Pivot Charts
-
--Data Cleaning & Preprocessing
-
--Slicers for Interactivity
-
--Basic Data Modelling
-
-Dataset Description
+>>Dataset Description
 
 The dataset includes:
-
 Order ID, Order Date, Customer Gender & Age Group, State, Sales Amount, Order Status, Sales Channel, Product Category
 
 >>Key Insights
